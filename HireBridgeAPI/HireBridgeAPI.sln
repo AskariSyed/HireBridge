@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireBridgeAPI", "HireBridgeAPI.csproj", "{EE7A01E2-EB63-402D-B8F6-06A9527786DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7A01E2-EB63-402D-B8F6-06A9527786DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7A01E2-EB63-402D-B8F6-06A9527786DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7A01E2-EB63-402D-B8F6-06A9527786DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7A01E2-EB63-402D-B8F6-06A9527786DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DD3772A-D9AC-4FDA-B010-281774E9B5E1}
+	EndGlobalSection
+EndGlobal

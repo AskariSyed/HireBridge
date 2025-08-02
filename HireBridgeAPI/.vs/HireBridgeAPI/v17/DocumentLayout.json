@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\dtos\\studentlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:dtos\\studentlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\dtos\\studentsignupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:dtos\\studentsignupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\dtos\\companyregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:dtos\\companyregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\validation\\emailvalidationattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:validation\\emailvalidationattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\validation\\passwordvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:validation\\passwordvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\hirebridgeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:hirebridgeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|c:\\users\\hp\\source\\repos\\hirebridgeapi\\migrations\\20250707165343_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7A01E2-EB63-402D-B8F6-06A9527786DE}|HireBridgeAPI.csproj|solutionrelative:migrations\\20250707165343_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:301181180:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\StudentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\StudentUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\StudentUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:01:46.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwFAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:30:54.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:49:16.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\StudentLoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\StudentLoginDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\StudentLoginDto.cs",
+              "RelativeToolTip": "DTOs\\StudentLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:40:06.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:10:30.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:34:21.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:42:56.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentSignupDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\StudentSignupDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\StudentSignupDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\StudentSignupDto.cs",
+              "RelativeToolTip": "DTOs\\StudentSignupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:14:58.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:29:36.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompanyRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\CompanyRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CompanyRegisterDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\CompanyRegisterDto.cs",
+              "RelativeToolTip": "DTOs\\CompanyRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T08:24:57.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:43:24.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:29:54.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T16:38:01.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PasswordValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Validation\\PasswordValidationAttribute.cs",
+              "RelativeDocumentMoniker": "Validation\\PasswordValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Validation\\PasswordValidationAttribute.cs",
+              "RelativeToolTip": "Validation\\PasswordValidationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:17:46.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailValidationAttribute .cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Validation\\EmailValidationAttribute .cs",
+              "RelativeDocumentMoniker": "Validation\\EmailValidationAttribute .cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Validation\\EmailValidationAttribute .cs",
+              "RelativeToolTip": "Validation\\EmailValidationAttribute .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:27:20.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:25:57.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:23:11.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwEQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:31:57.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:26:27.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HireBridgeAPI.http",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\HireBridgeAPI.http",
+              "RelativeDocumentMoniker": "HireBridgeAPI.http",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\HireBridgeAPI.http",
+              "RelativeToolTip": "HireBridgeAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-07T16:52:47.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T16:41:50.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250707165343_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Migrations\\20250707165343_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250707165343_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\HireBridgeAPI\\Migrations\\20250707165343_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250707165343_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:53:43.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
