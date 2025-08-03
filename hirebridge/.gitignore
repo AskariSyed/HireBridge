@@ -21,3 +21,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+**/hire_bridge_mobile/lib/firebase_options.dart
